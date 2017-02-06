@@ -1,0 +1,50 @@
+.navbar img {
+	width: 50px;
+	height: 50px;
+}
+
+.navbar-left {
+	width: 50px;
+}
+
+.panel-group {
+	margin-left: 50px;
+}  
+
+.panel {
+	border-style: none;
+}
+
+.panel-group .panel {
+	width: 250px;
+	height: 250px;
+	float: left;
+	margin-right: 40px;
+	margin-top: auto;
+	display: inline-block;
+	box-shadow: 7px 7px 4px  #e6faff;
+}
+
+.panel-body {
+   color: black;
+}
+
+#imgs {
+	clear: both;
+	padding: 50px 75px 0px 50px;
+	box-shadow: 5px 5px 3px  #e6faff;
+
+}
+
+li {
+	display: inline;
+	list-style-type: none;
+	padding-left: 50px;
+}
+
+li img {
+	display: inline-block;
+	width: 200px;
+	height: 200px;
+	padding-left: 50px;
+}
