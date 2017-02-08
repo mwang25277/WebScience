@@ -1,0 +1,41 @@
+li {
+	list-style-type: none;
+	text-transform: capitalize;
+	font-family: 'Quicksand', sans-serif;
+}
+
+h2 {
+	font-family: 'Caveat Brush', cursive;
+}
+
+.jumbotron {
+	margin: 0 auto;
+}
+
+#today {
+	margin-left: 300px;
+}
+
+#today ul {
+	display: inline-block;
+}
+
+#today li {
+	font-size: 200%;
+}
+
+#fiveday {
+	margin-left: 150px;
+}
+#loc {
+	clear: both;
+	float: left;
+}
+
+#fiveday ul {
+	display: inline-block;
+}
+
+#fiveday ul li {
+	font-size: 150%;
+}
