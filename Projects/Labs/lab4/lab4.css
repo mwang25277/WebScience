@@ -1,0 +1,87 @@
+ul {
+	list-style-type: none;
+}
+
+li {
+	display: inline-block;
+	padding: 20px;
+}
+
+body {
+    padding-top: 40px; /* Required padding for .navbar-fixed-top. Change if height of navigation changes. */
+    background-color: #f7a5e5;
+}
+
+.thumb {
+    margin-bottom: 30px;
+}
+
+footer {
+    margin: 50px 0;
+}
+
+.thumbnail {
+	height: 450px;
+}
+
+#redditImg {
+	max-height: 275px;
+	max-width: 275px;
+}
+
+h1, h3 {
+	font-family: 'Pangolin', cursive;
+}
+
+p {
+	font-family: 'Oxygen', sans-serif;
+	font-size: 14pt;
+}
+
+.btn {
+	display: block;
+	margin: 0 auto;
+	position: relative;
+}
+
+/*iPhone 5*/
+@media (min-width: 320px) and (max-width: 568px){
+	.container {
+		width: 100%;
+	}
+
+	#redditImg {
+		max-height: 225px;
+		max-width: 225px;
+	}
+
+	body {
+		background-color: #f29f9f;
+		padding-top: 20px;
+	}
+
+	.navbar {min-height: 20px;}
+	.navbar-brand {padding: 0 5px; height: 20px; line-height: 20px;}
+}
+
+/*iPad*/
+@media(min-width: 768px) and (max-width: 1024px){
+
+	.container {
+		width: 100%;
+	}
+
+	#redditImg {
+		max-height: 250px;
+		max-width: 250px;
+	}
+
+	body {
+		background-color: #ade7ff;
+		padding-top: 30px;
+	}
+
+	.navbar {min-height: 30px;}
+	.navbar-brand {padding: 0 5px; height: 30px; line-height: 30px;}
+}
+
