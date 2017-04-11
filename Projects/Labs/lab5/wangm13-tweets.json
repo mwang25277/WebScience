@@ -1,0 +1,1706 @@
+[
+  {
+    "created_at": "Wed Mar 01 18:23:32 +0000 2017",
+    "id": 837005397391261700,
+    "id_str": "837005397391261712",
+    "text": "@imrycoffey ☺️❤️❤️❤️",
+    "truncated": false,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "screen_name": "imrycoffey",
+          "name": "doorknob",
+          "id": 415182343,
+          "id_str": "415182343",
+          "indices": [
+            0,
+            11
+          ]
+        }
+      ],
+      "urls": []
+    },
+    "metadata": {
+      "iso_language_code": "und",
+      "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": 836989522034507800,
+    "in_reply_to_status_id_str": "836989522034507785",
+    "in_reply_to_user_id": 415182343,
+    "in_reply_to_user_id_str": "415182343",
+    "in_reply_to_screen_name": "imrycoffey",
+    "user": {
+      "id": 2214911486,
+      "id_str": "2214911486",
+      "name": "Vienna",
+      "screen_name": "_vcrisafulli",
+      "location": "",
+      "description": "",
+      "url": null,
+      "entities": {
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 491,
+      "friends_count": 532,
+      "listed_count": 0,
+      "created_at": "Tue Nov 26 01:07:20 +0000 2013",
+      "favourites_count": 14704,
+      "utc_offset": -28800,
+      "time_zone": "Pacific Time (US & Canada)",
+      "geo_enabled": true,
+      "verified": false,
+      "statuses_count": 6767,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "000000",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/834545374018859008/Uq1NWtGG_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/834545374018859008/Uq1NWtGG_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/2214911486/1487824221",
+      "profile_link_color": "19CF86",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "000000",
+      "profile_text_color": "000000",
+      "profile_use_background_image": false,
+      "has_extended_profile": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": {
+      "id": "51cc4a7155935af2",
+      "url": "https://api.twitter.com/1.1/geo/id/51cc4a7155935af2.json",
+      "place_type": "city",
+      "name": "Troy",
+      "full_name": "Troy, NY",
+      "country_code": "US",
+      "country": "United States",
+      "contained_within": [],
+      "bounding_box": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -73.724998,
+              42.660879
+            ],
+            [
+              -73.649201,
+              42.660879
+            ],
+            [
+              -73.649201,
+              42.795001
+            ],
+            [
+              -73.724998,
+              42.795001
+            ]
+          ]
+        ]
+      },
+      "attributes": {}
+    },
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "und"
+  },
+  {
+    "created_at": "Wed Mar 01 18:22:17 +0000 2017",
+    "id": 837005082424131600,
+    "id_str": "837005082424131584",
+    "text": "Fr😍 https://t.co/nbdhmi3Stu",
+    "truncated": false,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/nbdhmi3Stu",
+          "expanded_url": "https://twitter.com/tattedchanel/status/834807067537928192",
+          "display_url": "twitter.com/tattedchanel/s…",
+          "indices": [
+            4,
+            27
+          ]
+        }
+      ]
+    },
+    "metadata": {
+      "iso_language_code": "und",
+      "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 3135822569,
+      "id_str": "3135822569",
+      "name": "👸🏽♍️.",
+      "screen_name": "AaliyahMonaaax3",
+      "location": "New York, NY",
+      "description": "my attitude is fuck you where the cash at 🤒💰chapter 15 💅🏽🎒.",
+      "url": null,
+      "entities": {
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 3191,
+      "friends_count": 3648,
+      "listed_count": 9,
+      "created_at": "Sun Apr 05 06:08:45 +0000 2015",
+      "favourites_count": 9895,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": false,
+      "statuses_count": 40316,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/833815200935579649/t96M0ZZf_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/833815200935579649/t96M0ZZf_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/3135822569/1487632012",
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": true,
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": {
+      "id": "51cc4a7155935af2",
+      "url": "https://api.twitter.com/1.1/geo/id/51cc4a7155935af2.json",
+      "place_type": "city",
+      "name": "Troy",
+      "full_name": "Troy, NY",
+      "country_code": "US",
+      "country": "United States",
+      "contained_within": [],
+      "bounding_box": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -73.724998,
+              42.660879
+            ],
+            [
+              -73.649201,
+              42.660879
+            ],
+            [
+              -73.649201,
+              42.795001
+            ],
+            [
+              -73.724998,
+              42.795001
+            ]
+          ]
+        ]
+      },
+      "attributes": {}
+    },
+    "contributors": null,
+    "is_quote_status": true,
+    "quoted_status_id": 834807067537928200,
+    "quoted_status_id_str": "834807067537928192",
+    "quoted_status": {
+      "created_at": "Thu Feb 23 16:48:09 +0000 2017",
+      "id": 834807067537928200,
+      "id_str": "834807067537928192",
+      "text": "s/o to girls who smile at you as you walk by instead of giving a mean look - y'all are angels ❤",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "metadata": {
+        "iso_language_code": "und",
+        "result_type": "recent"
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3052700140,
+        "id_str": "3052700140",
+        "name": "Jasmine ✨",
+        "screen_name": "TattedChanel",
+        "location": "",
+        "description": "Do good and good will come to you. Business email: Jazzysdeck@gmail.com. Sc: jizzlemylizzle",
+        "url": "https://t.co/4V3QCKJNuc",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/4V3QCKJNuc",
+                "expanded_url": "http://Instagram.com/TattedChanel",
+                "display_url": "Instagram.com/TattedChanel",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 55300,
+        "friends_count": 114,
+        "listed_count": 281,
+        "created_at": "Sun Feb 22 13:09:04 +0000 2015",
+        "favourites_count": 114,
+        "utc_offset": 0,
+        "time_zone": "Dublin",
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 811,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/836259086773665796/eFhPC9P__normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/836259086773665796/eFhPC9P__normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/3052700140/1486588564",
+        "profile_link_color": "E81C4F",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "has_extended_profile": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 3482,
+      "favorite_count": 5426,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "und"
+  },
+  {
+    "created_at": "Wed Mar 01 18:21:56 +0000 2017",
+    "id": 837004995203588100,
+    "id_str": "837004995203588097",
+    "text": "Out of school 😅",
+    "truncated": false,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": []
+    },
+    "metadata": {
+      "iso_language_code": "en",
+      "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 3135822569,
+      "id_str": "3135822569",
+      "name": "👸🏽♍️.",
+      "screen_name": "AaliyahMonaaax3",
+      "location": "New York, NY",
+      "description": "my attitude is fuck you where the cash at 🤒💰chapter 15 💅🏽🎒.",
+      "url": null,
+      "entities": {
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 3191,
+      "friends_count": 3648,
+      "listed_count": 9,
+      "created_at": "Sun Apr 05 06:08:45 +0000 2015",
+      "favourites_count": 9895,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": false,
+      "statuses_count": 40316,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/833815200935579649/t96M0ZZf_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/833815200935579649/t96M0ZZf_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/3135822569/1487632012",
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": true,
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": {
+      "id": "51cc4a7155935af2",
+      "url": "https://api.twitter.com/1.1/geo/id/51cc4a7155935af2.json",
+      "place_type": "city",
+      "name": "Troy",
+      "full_name": "Troy, NY",
+      "country_code": "US",
+      "country": "United States",
+      "contained_within": [],
+      "bounding_box": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -73.724998,
+              42.660879
+            ],
+            [
+              -73.649201,
+              42.660879
+            ],
+            [
+              -73.649201,
+              42.795001
+            ],
+            [
+              -73.724998,
+              42.795001
+            ]
+          ]
+        ]
+      },
+      "attributes": {}
+    },
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Wed Mar 01 18:15:51 +0000 2017",
+    "id": 837003464865693700,
+    "id_str": "837003464865693703",
+    "text": "Christopher Ames, the next president of @sage_edu, meets with students inside the Buchman Pavilion at Russell Sage… https://t.co/iFLPucSb9Q",
+    "truncated": true,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "screen_name": "sage_edu",
+          "name": "The Sage Colleges",
+          "id": 16472647,
+          "id_str": "16472647",
+          "indices": [
+            40,
+            49
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/iFLPucSb9Q",
+          "expanded_url": "https://twitter.com/i/web/status/837003464865693703",
+          "display_url": "twitter.com/i/web/status/8…",
+          "indices": [
+            116,
+            139
+          ]
+        }
+      ]
+    },
+    "metadata": {
+      "iso_language_code": "en",
+      "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 66014022,
+      "id_str": "66014022",
+      "name": "Bethany Bump",
+      "screen_name": "bethanybump",
+      "location": "Saratoga Springs, NY",
+      "description": "writer, reader, daydreamer // covering education for the @TimesUnion in Albany, NY",
+      "url": "https://t.co/MJmSl4WHMW",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/MJmSl4WHMW",
+              "expanded_url": "http://www.timesunion.com/",
+              "display_url": "timesunion.com",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 2518,
+      "friends_count": 1289,
+      "listed_count": 135,
+      "created_at": "Sun Aug 16 00:41:48 +0000 2009",
+      "favourites_count": 359,
+      "utc_offset": -18000,
+      "time_zone": "Eastern Time (US & Canada)",
+      "geo_enabled": true,
+      "verified": false,
+      "statuses_count": 11930,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "FFFFFF",
+      "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/453693745733443584/hdWYZt-i.jpeg",
+      "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/453693745733443584/hdWYZt-i.jpeg",
+      "profile_background_tile": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/836048992593145856/5h0cOYhJ_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/836048992593145856/5h0cOYhJ_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/66014022/1437584789",
+      "profile_link_color": "B28C81",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "FFFFFF",
+      "profile_text_color": "333333",
+      "profile_use_background_image": false,
+      "has_extended_profile": false,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": {
+      "id": "51cc4a7155935af2",
+      "url": "https://api.twitter.com/1.1/geo/id/51cc4a7155935af2.json",
+      "place_type": "city",
+      "name": "Troy",
+      "full_name": "Troy, NY",
+      "country_code": "US",
+      "country": "United States",
+      "contained_within": [],
+      "bounding_box": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -73.724998,
+              42.660879
+            ],
+            [
+              -73.649201,
+              42.660879
+            ],
+            [
+              -73.649201,
+              42.795001
+            ],
+            [
+              -73.724998,
+              42.795001
+            ]
+          ]
+        ]
+      },
+      "attributes": {}
+    },
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 1,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Wed Mar 01 18:15:28 +0000 2017",
+    "id": 837003368761593900,
+    "id_str": "837003368761593857",
+    "text": "My leggings are inside out ¯\\_(ツ)_/¯",
+    "truncated": false,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": []
+    },
+    "metadata": {
+      "iso_language_code": "en",
+      "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 18061517,
+      "id_str": "18061517",
+      "name": "Ash A Leigh",
+      "screen_name": "UghAshleigh",
+      "location": "Upstate, NY",
+      "description": "¯\\_(ツ)_/¯",
+      "url": null,
+      "entities": {
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 316,
+      "friends_count": 1373,
+      "listed_count": 13,
+      "created_at": "Thu Dec 11 21:50:21 +0000 2008",
+      "favourites_count": 53717,
+      "utc_offset": -18000,
+      "time_zone": "Eastern Time (US & Canada)",
+      "geo_enabled": true,
+      "verified": false,
+      "statuses_count": 17366,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "1A1B1F",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/803497834314088449/ZEi9TNaZ_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/803497834314088449/ZEi9TNaZ_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/18061517/1438051994",
+      "profile_link_color": "2FC2EF",
+      "profile_sidebar_border_color": "181A1E",
+      "profile_sidebar_fill_color": "252429",
+      "profile_text_color": "666666",
+      "profile_use_background_image": true,
+      "has_extended_profile": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": {
+      "id": "51cc4a7155935af2",
+      "url": "https://api.twitter.com/1.1/geo/id/51cc4a7155935af2.json",
+      "place_type": "city",
+      "name": "Troy",
+      "full_name": "Troy, NY",
+      "country_code": "US",
+      "country": "United States",
+      "contained_within": [],
+      "bounding_box": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -73.724998,
+              42.660879
+            ],
+            [
+              -73.649201,
+              42.660879
+            ],
+            [
+              -73.649201,
+              42.795001
+            ],
+            [
+              -73.724998,
+              42.795001
+            ]
+          ]
+        ]
+      },
+      "attributes": {}
+    },
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Wed Mar 01 18:14:08 +0000 2017",
+    "id": 837003031132717000,
+    "id_str": "837003031132717069",
+    "text": "SMH https://t.co/kxUivzwxbH",
+    "truncated": false,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/kxUivzwxbH",
+          "expanded_url": "https://twitter.com/tweetsbytyren/status/817865572729978880",
+          "display_url": "twitter.com/tweetsbytyren/…",
+          "indices": [
+            4,
+            27
+          ]
+        }
+      ]
+    },
+    "metadata": {
+      "iso_language_code": "und",
+      "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 3135822569,
+      "id_str": "3135822569",
+      "name": "👸🏽♍️.",
+      "screen_name": "AaliyahMonaaax3",
+      "location": "New York, NY",
+      "description": "my attitude is fuck you where the cash at 🤒💰chapter 15 💅🏽🎒.",
+      "url": null,
+      "entities": {
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 3191,
+      "friends_count": 3648,
+      "listed_count": 9,
+      "created_at": "Sun Apr 05 06:08:45 +0000 2015",
+      "favourites_count": 9895,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": false,
+      "statuses_count": 40316,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/833815200935579649/t96M0ZZf_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/833815200935579649/t96M0ZZf_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/3135822569/1487632012",
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": true,
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": {
+      "id": "51cc4a7155935af2",
+      "url": "https://api.twitter.com/1.1/geo/id/51cc4a7155935af2.json",
+      "place_type": "city",
+      "name": "Troy",
+      "full_name": "Troy, NY",
+      "country_code": "US",
+      "country": "United States",
+      "contained_within": [],
+      "bounding_box": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -73.724998,
+              42.660879
+            ],
+            [
+              -73.649201,
+              42.660879
+            ],
+            [
+              -73.649201,
+              42.795001
+            ],
+            [
+              -73.724998,
+              42.795001
+            ]
+          ]
+        ]
+      },
+      "attributes": {}
+    },
+    "contributors": null,
+    "is_quote_status": true,
+    "quoted_status_id": 817865572729978900,
+    "quoted_status_id_str": "817865572729978880",
+    "quoted_status": {
+      "created_at": "Sat Jan 07 22:48:42 +0000 2017",
+      "id": 817865572729978900,
+      "id_str": "817865572729978880",
+      "text": "MY BRO WAS CHEATING ON HIS GIRL A WHOLE 2 YEARS..SHE KISSED ANOTHER GUY LAST WEEK, HE SAID \"BRO WHAT DID I DO TO DESERVE THIS?\"",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "metadata": {
+        "iso_language_code": "und",
+        "result_type": "recent"
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 2390334434,
+        "id_str": "2390334434",
+        "name": "50shadesofpapikai",
+        "screen_name": "tweetsbytyren",
+        "location": "Oklahoma, USA",
+        "description": "IM UGLY BUT I GOT A MOUTHPIECE THAT MAKES ME LOOK LIKE @chrisbrown IDENTICAL BROTHER. PEEP MY FAVS. SC-PAPIKAISDADDY.",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 50055,
+        "friends_count": 30405,
+        "listed_count": 137,
+        "created_at": "Sat Mar 15 03:38:21 +0000 2014",
+        "favourites_count": 3431,
+        "utc_offset": -18000,
+        "time_zone": "Eastern Time (US & Canada)",
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 26628,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/831432431869816832/eHPU0_Jy_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/831432431869816832/eHPU0_Jy_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2390334434/1483642992",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 9036,
+      "favorite_count": 13216,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "und"
+  },
+  {
+    "created_at": "Wed Mar 01 18:12:15 +0000 2017",
+    "id": 837002557239279600,
+    "id_str": "837002557239279623",
+    "text": "this is me every other day https://t.co/3wkUdPNIP9",
+    "truncated": false,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/3wkUdPNIP9",
+          "expanded_url": "https://twitter.com/richhomiefromlh/status/836974910341791744",
+          "display_url": "twitter.com/richhomiefroml…",
+          "indices": [
+            27,
+            50
+          ]
+        }
+      ]
+    },
+    "metadata": {
+      "iso_language_code": "en",
+      "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 3135822569,
+      "id_str": "3135822569",
+      "name": "👸🏽♍️.",
+      "screen_name": "AaliyahMonaaax3",
+      "location": "New York, NY",
+      "description": "my attitude is fuck you where the cash at 🤒💰chapter 15 💅🏽🎒.",
+      "url": null,
+      "entities": {
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 3191,
+      "friends_count": 3648,
+      "listed_count": 9,
+      "created_at": "Sun Apr 05 06:08:45 +0000 2015",
+      "favourites_count": 9895,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": false,
+      "statuses_count": 40316,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/833815200935579649/t96M0ZZf_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/833815200935579649/t96M0ZZf_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/3135822569/1487632012",
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": true,
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": {
+      "id": "51cc4a7155935af2",
+      "url": "https://api.twitter.com/1.1/geo/id/51cc4a7155935af2.json",
+      "place_type": "city",
+      "name": "Troy",
+      "full_name": "Troy, NY",
+      "country_code": "US",
+      "country": "United States",
+      "contained_within": [],
+      "bounding_box": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -73.724998,
+              42.660879
+            ],
+            [
+              -73.649201,
+              42.660879
+            ],
+            [
+              -73.649201,
+              42.795001
+            ],
+            [
+              -73.724998,
+              42.795001
+            ]
+          ]
+        ]
+      },
+      "attributes": {}
+    },
+    "contributors": null,
+    "is_quote_status": true,
+    "quoted_status_id": 836974910341791700,
+    "quoted_status_id_str": "836974910341791744",
+    "quoted_status": {
+      "created_at": "Wed Mar 01 16:22:23 +0000 2017",
+      "id": 836974910341791700,
+      "id_str": "836974910341791744",
+      "text": "today just not feeling like my day",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3035057980,
+        "id_str": "3035057980",
+        "name": "O6 Orignial",
+        "screen_name": "RichHomieFromLH",
+        "location": "",
+        "description": "",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 709,
+        "friends_count": 571,
+        "listed_count": 0,
+        "created_at": "Fri Feb 13 17:07:18 +0000 2015",
+        "favourites_count": 764,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 9044,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/833674600986836992/3bvdxzGR_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/833674600986836992/3bvdxzGR_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/3035057980/1441705244",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Wed Mar 01 18:11:44 +0000 2017",
+    "id": 837002426985164800,
+    "id_str": "837002426985164800",
+    "text": "😂💯 https://t.co/AJLXMRRzEY",
+    "truncated": false,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/AJLXMRRzEY",
+          "expanded_url": "https://twitter.com/thcmoonman/status/722464571995267073",
+          "display_url": "twitter.com/thcmoonman/sta…",
+          "indices": [
+            3,
+            26
+          ]
+        }
+      ]
+    },
+    "metadata": {
+      "iso_language_code": "und",
+      "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 3135822569,
+      "id_str": "3135822569",
+      "name": "👸🏽♍️.",
+      "screen_name": "AaliyahMonaaax3",
+      "location": "New York, NY",
+      "description": "my attitude is fuck you where the cash at 🤒💰chapter 15 💅🏽🎒.",
+      "url": null,
+      "entities": {
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 3191,
+      "friends_count": 3648,
+      "listed_count": 9,
+      "created_at": "Sun Apr 05 06:08:45 +0000 2015",
+      "favourites_count": 9895,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": false,
+      "statuses_count": 40316,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/833815200935579649/t96M0ZZf_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/833815200935579649/t96M0ZZf_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/3135822569/1487632012",
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": true,
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": {
+      "id": "51cc4a7155935af2",
+      "url": "https://api.twitter.com/1.1/geo/id/51cc4a7155935af2.json",
+      "place_type": "city",
+      "name": "Troy",
+      "full_name": "Troy, NY",
+      "country_code": "US",
+      "country": "United States",
+      "contained_within": [],
+      "bounding_box": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -73.724998,
+              42.660879
+            ],
+            [
+              -73.649201,
+              42.660879
+            ],
+            [
+              -73.649201,
+              42.795001
+            ],
+            [
+              -73.724998,
+              42.795001
+            ]
+          ]
+        ]
+      },
+      "attributes": {}
+    },
+    "contributors": null,
+    "is_quote_status": true,
+    "quoted_status_id": 722464571995267100,
+    "quoted_status_id_str": "722464571995267073",
+    "quoted_status": {
+      "created_at": "Tue Apr 19 16:39:11 +0000 2016",
+      "id": 722464571995267100,
+      "id_str": "722464571995267073",
+      "text": "When your ex hit you up like \" how you been\"\n \"You look great\" https://t.co/VicHGCd2Tr",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [],
+        "media": [
+          {
+            "id": 722464570481188900,
+            "id_str": "722464570481188864",
+            "indices": [
+              63,
+              86
+            ],
+            "media_url": "http://pbs.twimg.com/media/Cga1svZWIAAfDcV.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/Cga1svZWIAAfDcV.jpg",
+            "url": "https://t.co/VicHGCd2Tr",
+            "display_url": "pic.twitter.com/VicHGCd2Tr",
+            "expanded_url": "https://twitter.com/Unclearable/status/722464571995267073/photo/1",
+            "type": "photo",
+            "sizes": {
+              "large": {
+                "w": 640,
+                "h": 1136,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 600,
+                "h": 1065,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "small": {
+                "w": 340,
+                "h": 604,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 722464570481188900,
+            "id_str": "722464570481188864",
+            "indices": [
+              63,
+              86
+            ],
+            "media_url": "http://pbs.twimg.com/media/Cga1svZWIAAfDcV.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/Cga1svZWIAAfDcV.jpg",
+            "url": "https://t.co/VicHGCd2Tr",
+            "display_url": "pic.twitter.com/VicHGCd2Tr",
+            "expanded_url": "https://twitter.com/Unclearable/status/722464571995267073/photo/1",
+            "type": "photo",
+            "sizes": {
+              "large": {
+                "w": 640,
+                "h": 1136,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 600,
+                "h": 1065,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "small": {
+                "w": 340,
+                "h": 604,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "metadata": {
+        "iso_language_code": "und",
+        "result_type": "recent"
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 449614269,
+        "id_str": "449614269",
+        "name": "father nick",
+        "screen_name": "thcmoonman",
+        "location": "Chicago, IL",
+        "description": "",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 53196,
+        "friends_count": 15,
+        "listed_count": 159,
+        "created_at": "Thu Dec 29 09:05:14 +0000 2011",
+        "favourites_count": 1439,
+        "utc_offset": -21600,
+        "time_zone": "Central Time (US & Canada)",
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 2369,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": true,
+        "profile_background_color": "0CB9F2",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000076195798/66fb6a594099ef4b8965a2ddd91fcef9.jpeg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000076195798/66fb6a594099ef4b8965a2ddd91fcef9.jpeg",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/829364484955373569/aWk__RAy_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/829364484955373569/aWk__RAy_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/449614269/1487873974",
+        "profile_link_color": "000000",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "2D1E29",
+        "profile_text_color": "DB6995",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 2775,
+      "favorite_count": 4276,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": true,
+      "lang": "en"
+    },
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "und"
+  },
+  {
+    "created_at": "Wed Mar 01 18:09:58 +0000 2017",
+    "id": 837001985194872800,
+    "id_str": "837001985194872832",
+    "text": "My ukelele is really cute 💕 https://t.co/ASXE6GfMgF",
+    "truncated": false,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [],
+      "media": [
+        {
+          "id": 837001952848449500,
+          "id_str": "837001952848449536",
+          "indices": [
+            28,
+            51
+          ],
+          "media_url": "http://pbs.twimg.com/media/C52g12vXEAAgrhb.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/C52g12vXEAAgrhb.jpg",
+          "url": "https://t.co/ASXE6GfMgF",
+          "display_url": "pic.twitter.com/ASXE6GfMgF",
+          "expanded_url": "https://twitter.com/hoff_yo/status/837001985194872832/photo/1",
+          "type": "photo",
+          "sizes": {
+            "small": {
+              "w": 383,
+              "h": 680,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 576,
+              "h": 1024,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 576,
+              "h": 1024,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 837001952848449500,
+          "id_str": "837001952848449536",
+          "indices": [
+            28,
+            51
+          ],
+          "media_url": "http://pbs.twimg.com/media/C52g12vXEAAgrhb.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/C52g12vXEAAgrhb.jpg",
+          "url": "https://t.co/ASXE6GfMgF",
+          "display_url": "pic.twitter.com/ASXE6GfMgF",
+          "expanded_url": "https://twitter.com/hoff_yo/status/837001985194872832/photo/1",
+          "type": "photo",
+          "sizes": {
+            "small": {
+              "w": 383,
+              "h": 680,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 576,
+              "h": 1024,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 576,
+              "h": 1024,
+              "resize": "fit"
+            }
+          }
+        },
+        {
+          "id": 837001962004627500,
+          "id_str": "837001962004627457",
+          "indices": [
+            28,
+            51
+          ],
+          "media_url": "http://pbs.twimg.com/media/C52g2Y2XQAE3-vR.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/C52g2Y2XQAE3-vR.jpg",
+          "url": "https://t.co/ASXE6GfMgF",
+          "display_url": "pic.twitter.com/ASXE6GfMgF",
+          "expanded_url": "https://twitter.com/hoff_yo/status/837001985194872832/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 383,
+              "h": 680,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 576,
+              "h": 1024,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 576,
+              "h": 1024,
+              "resize": "fit"
+            }
+          }
+        },
+        {
+          "id": 837001968883286000,
+          "id_str": "837001968883286016",
+          "indices": [
+            28,
+            51
+          ],
+          "media_url": "http://pbs.twimg.com/media/C52g2yeXQAAcZZo.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/C52g2yeXQAAcZZo.jpg",
+          "url": "https://t.co/ASXE6GfMgF",
+          "display_url": "pic.twitter.com/ASXE6GfMgF",
+          "expanded_url": "https://twitter.com/hoff_yo/status/837001985194872832/photo/1",
+          "type": "photo",
+          "sizes": {
+            "small": {
+              "w": 383,
+              "h": 680,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 576,
+              "h": 1024,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 576,
+              "h": 1024,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "metadata": {
+      "iso_language_code": "en",
+      "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 704302549000720400,
+      "id_str": "704302549000720386",
+      "name": "Katie",
+      "screen_name": "hoff_yo",
+      "location": "",
+      "description": "just trying to find my way",
+      "url": "https://t.co/noisjOFo4I",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/noisjOFo4I",
+              "expanded_url": "http://khsongwriter.com",
+              "display_url": "khsongwriter.com",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 167,
+      "friends_count": 186,
+      "listed_count": 0,
+      "created_at": "Mon Feb 29 13:49:47 +0000 2016",
+      "favourites_count": 3560,
+      "utc_offset": -18000,
+      "time_zone": "Eastern Time (US & Canada)",
+      "geo_enabled": true,
+      "verified": false,
+      "statuses_count": 761,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "F5F8FA",
+      "profile_background_image_url": null,
+      "profile_background_image_url_https": null,
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/801482053447536640/PbdS6Wz__normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/801482053447536640/PbdS6Wz__normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/704302549000720386/1470706746",
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": true,
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": {
+      "id": "51cc4a7155935af2",
+      "url": "https://api.twitter.com/1.1/geo/id/51cc4a7155935af2.json",
+      "place_type": "city",
+      "name": "Troy",
+      "full_name": "Troy, NY",
+      "country_code": "US",
+      "country": "United States",
+      "contained_within": [],
+      "bounding_box": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -73.724998,
+              42.660879
+            ],
+            [
+              -73.649201,
+              42.660879
+            ],
+            [
+              -73.649201,
+              42.795001
+            ],
+            [
+              -73.724998,
+              42.795001
+            ]
+          ]
+        ]
+      },
+      "attributes": {}
+    },
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  }
+]

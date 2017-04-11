@@ -24,14 +24,17 @@ $(document).ready(function() {
 	var users = Array(); //array of TwitterUsers
 	var imgs = 0;
 	$.ajax({ //use ajax to parse and store json into users Array
-		url: "TwitterTweets17.json",
+		url: "wangm13-tweets.json",
 		dataType: "json",
 		async: false,
 		success: function(data) {
+			console.log("success");
+			console.log(data);
 			for(var i = 0; i < data.length; i++) {
 				if(data[i].text != null) { //skip undefined tweets
 					var name = data[i].user.screen_name;
 					var tweet = data[i].text;
+					console.log(name + " " + tweet);
 					var imgUrl = null;
 					if(data[i].entities.media != undefined) {
 						//console.log(data[i].entities.media);

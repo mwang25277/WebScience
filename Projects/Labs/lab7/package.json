@@ -1,0 +1,21 @@
+{
+  "name": "lab7",
+  "version": "1.0.0",
+  "description": "Web Sci Lab 5: Using Node.js, Express, and the Twitter API",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Max Wang",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.16.1",
+    "express": "^4.14.1",
+    "json2csv": "^3.7.3",
+    "mongodb": "^2.2.25",
+    "socket.io": "^1.7.3",
+    "twit": "^2.2.5",
+    "xmlbuilder": "^8.2.2"
+  }
+}
